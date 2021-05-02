@@ -4,7 +4,7 @@ import {
   Menu,
   MenuItem,
   SidebarHeader,
-  SidebarFooter,
+  
   SidebarContent,
 } from "react-pro-sidebar";
 import "./Header.css";
@@ -12,10 +12,7 @@ import bigLogo from "../../image/bigLogo2.jpg";
 import { Link } from "react-router-dom";
 
 const Header = () => {
-  const [menuCollapse, setMenuCollapse] = useState(false);
-  const menuIconClick = () => {
-    menuCollapse ? setMenuCollapse(false) : setMenuCollapse(true);
-  };
+  const [menuCollapse] = useState(false);
 
   return (
     <>

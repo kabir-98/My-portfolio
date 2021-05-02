@@ -1,5 +1,5 @@
 import React from "react";
-import { useForm, ValidationError } from "@formspree/react";
+import { useForm } from "@formspree/react";
 
 const ContactFrom = () => {
   const [state, handleSubmit] = useForm("mpzkqlob");

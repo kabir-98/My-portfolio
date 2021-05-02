@@ -2,6 +2,7 @@
   "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kabir98.github.io/my-portfolio/",
   "dependencies": {
     "@formspree/react": "^2.2.3",
     "@heroicons/react": "^1.0.1",

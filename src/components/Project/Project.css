@@ -1,0 +1,11 @@
+.project-details{
+    height:100%;
+}
+.project-img{
+    height: 400px;
+    width: 100%;
+    border-radius: 15px;
+    border: 1px solid black;
+    padding: 1px;
+    cursor: pointer;
+}

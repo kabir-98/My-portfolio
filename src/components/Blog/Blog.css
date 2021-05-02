@@ -1,0 +1,11 @@
+.blog-details{
+    height: 100%;
+}
+.blog-img{
+    height: 400px;
+    width: 100%;
+    border-radius: 10px;
+}
+.link-style{
+    text-decoration: none;
+}

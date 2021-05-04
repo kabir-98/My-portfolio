@@ -36,7 +36,7 @@ const Resume = () => {
         <div className="p-4 mt-3">
           <a
             target="_blank"
-            href="https://drive.google.com/file/d/14c7tDguuxCnCKBPv8txBSG8hf1DeOxpI/view?usp=sharing"
+            href="https://drive.google.com/file/d/1G-pBNm7pvlUQynzLuDTS1bVFGkdaW4WW/view?usp=sharing"
             className="btn btn-primary"
             rel="noreferrer"
           >
